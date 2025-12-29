@@ -1,0 +1,162 @@
+[
+  {
+    "timestamp": "2025-12-28T06:36:06.898574",
+    "gesture": "H_1",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-12-28T06:36:56.738656",
+    "gesture": "H_1",
+    "confidence": 0.9999
+  },
+  {
+    "timestamp": "2025-12-28T06:50:47.620181",
+    "gesture": "H_1",
+    "confidence": 0.9999
+  },
+  {
+    "timestamp": "2025-12-28T06:51:07.424647",
+    "gesture": "H_1",
+    "confidence": 0.9999
+  },
+  {
+    "timestamp": "2025-12-28T06:51:38.591761",
+    "gesture": "H_1",
+    "confidence": 0.9995
+  },
+  {
+    "timestamp": "2025-12-28T06:53:04.853771",
+    "gesture": "H_1",
+    "confidence": 0.998
+  },
+  {
+    "timestamp": "2025-12-28T06:53:06.808408",
+    "gesture": "H_1",
+    "confidence": 0.9974
+  },
+  {
+    "timestamp": "2025-12-28T06:53:08.859535",
+    "gesture": "H_1",
+    "confidence": 0.9987
+  },
+  {
+    "timestamp": "2025-12-28T06:53:15.235986",
+    "gesture": "H_1",
+    "confidence": 0.9969
+  },
+  {
+    "timestamp": "2025-12-28T06:53:17.215696",
+    "gesture": "H_1",
+    "confidence": 0.9985
+  },
+  {
+    "timestamp": "2025-12-28T06:53:19.309702",
+    "gesture": "H_1",
+    "confidence": 0.9986
+  },
+  {
+    "timestamp": "2025-12-28T06:53:21.316130",
+    "gesture": "H_1",
+    "confidence": 0.9981
+  },
+  {
+    "timestamp": "2025-12-28T06:53:23.323693",
+    "gesture": "H_1",
+    "confidence": 0.998
+  },
+  {
+    "timestamp": "2025-12-28T06:53:25.391135",
+    "gesture": "H_1",
+    "confidence": 0.998
+  },
+  {
+    "timestamp": "2025-12-28T06:53:27.375457",
+    "gesture": "H_1",
+    "confidence": 0.9975
+  },
+  {
+    "timestamp": "2025-12-28T07:22:59.017668",
+    "gesture": "H_1",
+    "confidence": 0.9987
+  },
+  {
+    "timestamp": "2025-12-28T07:24:23.212496",
+    "gesture": "H_1",
+    "confidence": 0.9998
+  },
+  {
+    "timestamp": "2025-12-28T07:24:41.870459",
+    "gesture": "H_1",
+    "confidence": 0.9958
+  },
+  {
+    "timestamp": "2025-12-28T07:24:43.885051",
+    "gesture": "H_1",
+    "confidence": 0.9969
+  },
+  {
+    "timestamp": "2025-12-28T07:24:45.930785",
+    "gesture": "H_1",
+    "confidence": 0.9976
+  },
+  {
+    "timestamp": "2025-12-28T07:24:47.962707",
+    "gesture": "H_1",
+    "confidence": 0.9987
+  },
+  {
+    "timestamp": "2025-12-28T07:24:49.995979",
+    "gesture": "H_1",
+    "confidence": 0.9989
+  },
+  {
+    "timestamp": "2025-12-28T07:24:52.093039",
+    "gesture": "H_1",
+    "confidence": 0.9983
+  },
+  {
+    "timestamp": "2025-12-28T07:24:54.091363",
+    "gesture": "H_1",
+    "confidence": 0.9977
+  },
+  {
+    "timestamp": "2025-12-28T07:24:56.035462",
+    "gesture": "H_1",
+    "confidence": 0.998
+  },
+  {
+    "timestamp": "2025-12-28T13:07:12.923325",
+    "gesture": "H_1",
+    "confidence": 0.9997
+  },
+  {
+    "timestamp": "2025-12-28T13:09:31.307857",
+    "gesture": "H_1",
+    "confidence": 0.9999
+  },
+  {
+    "timestamp": "2025-12-28T13:09:43.535766",
+    "gesture": "H_1",
+    "confidence": 0.9947
+  },
+  {
+    "timestamp": "2025-12-28T13:09:45.577679",
+    "gesture": "H_1",
+    "confidence": 0.9976
+  },
+  {
+    "timestamp": "2025-12-28T13:09:47.618224",
+    "gesture": "H_1",
+    "confidence": 0.9985
+  },
+  {
+    "timestamp": "2025-12-28T13:09:49.578939",
+    "gesture": "H_1",
+    "confidence": 0.9985
+  },
+  {
+    "timestamp": "2025-12-28T13:09:51.597590",
+    "gesture": "H_1",
+    "confidence": 0.9983
+  }
+]

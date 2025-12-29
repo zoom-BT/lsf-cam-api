@@ -1,0 +1,15 @@
+{
+  "esp32_ip": "192.168.4.1",
+  "esp32_port": 81,
+  "api_url": "http://localhost:8000",
+  "min_data_points": 50,
+  "max_data_points": 150,
+  "sample_rate_ms": 50,
+  "language": "fr",
+  "tts_rate": 150,
+  "tts_volume": 1.0,
+  "realtime_interval": 2.0,
+  "realtime_buffer_size": 60,
+  "theme_mode": "system",
+  "color_theme": "dark-blue"
+}

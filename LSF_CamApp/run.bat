@@ -1,0 +1,6 @@
+@echo off
+echo Installation des dependances...
+pip install -r requirements.txt
+echo Lancement de LSF-Cam...
+python main.py
+pause
